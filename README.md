@@ -1,0 +1,2 @@
+# Array-
+practice from 'leetcode'
